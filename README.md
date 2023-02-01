@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">
+  <a href="https://blog.ideaopen.cn/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Make your every day more valuable.&center=true&size=27">
+  </a>
+</h1>
+<br>
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/JanYork/JanYork/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
  
 ### I'm Yiu
