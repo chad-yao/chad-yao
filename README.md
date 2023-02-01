@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://blog.ideaopen.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Make your every day more valuable.&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小简提醒你要天天开心哦!&center=true&size=27">
   </a>
 </h1>
 <br>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
  
-### I'm Yiu
+### Welcome to my world.
 - 🔭 Hunan university
 - 🌱 [个人博客](https://dominique-yiu.github.io/) 网址.
 <img src="https://github-profile-trophy.vercel.app/?username=Dominique-Yiu&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
