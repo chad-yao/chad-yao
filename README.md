@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <a href="https://blog.ideaopen.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Make your every day more valuable.&center=true&size=27">
+  <a href="https://dominique-yiu.netlify.app/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);让你的每一天更有价值！&center=true&size=27">
   </a>
 </h1>
 <br>
