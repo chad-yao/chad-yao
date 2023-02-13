@@ -1,4 +1,4 @@
-## The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. 👋
+<center><font size='10' color='blue'>The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. 👋</font></center>
 
 <!--
 **Dominique-Yiu/Dominique-Yiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
