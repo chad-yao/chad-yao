@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/JanYork/JanYork/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&show_icons=true" alt="logo" height="160" align="right" style="margin: 0px; margin-bottom: 0px;" />
  
 
 [![yiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&show_icons=true&theme=tokyonight)](https://github.com/Dominique-Yiu/github-readme-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=Dominique-Yiu&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dominique-Yiu&theme=flat&column=8" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 <img align="left" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique-Yiu&hide_border=true">
 
 ### Welcome to my world.
