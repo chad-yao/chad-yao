@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/JanYork/JanYork/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&show_icons=true" alt="logo" height="160" align="right" style="margin: 0px; margin-bottom: 0px;" />
  
 
 [![yiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&show_icons=true&theme=tokyonight)](https://github.com/Dominique-Yiu/github-readme-stats)
