@@ -26,11 +26,6 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/JanYork/JanYork/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-<div align="center">
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&theme=tokyonight&show_icons=true" />
-    <img height="165" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique-Yiu&theme=calm&langs_count=4&layout=compact&show_icons=true" />
-</div>
-
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dominique-Yiu&show_icons=true&theme=tokyonight&column=8" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /></div>
 
 ### Welcome to my world.
@@ -60,3 +55,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Java-8-e0161a?logo=Java&logoColor=e0161a)](https://www.oracle.com/cn/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+
+<div align="center">
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&theme=tokyonight&show_icons=true" />
+    <img height="165" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique-Yiu&theme=calm&langs_count=4&layout=compact&show_icons=true" />
+</div>
