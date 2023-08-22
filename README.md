@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://dominique-yiu.netlify.app/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Life%2C%20a%20sugary;blend%20of%20sweet%20and%20woe&center=true&size=24">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Life%2C%20a%20sugary;blend%20of%20sweet%20and%20woe%2E&center=true&size=24">
   </a>
 </h1>
 
