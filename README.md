@@ -1,4 +1,5 @@
-### The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. 👋
+![Moe-Counter](https://count.getloli.com/get/@dominique-yiu?theme=rule34)
+## The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. 👋
 
 <!--
 **Dominique-Yiu/Dominique-Yiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +33,11 @@ Here are some ideas to get you started:
 
 <div align="center"><img align="center" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique-Yiu&theme=tokyonight&show_icons=true"></div>
 
+### Platforms
 
+[![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)]()
+
+[![](https://img.shields.io/badge/Linux-20.04-red?style=flat-square&logo=linux&logoColor=ffffff)]()
 ### Welcome to my world.
 
 - 🔭 Hunan university
