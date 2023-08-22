@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/JanYork/JanYork/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
- 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&show_icons=true&theme=tokyonight" alt="yiu's GitHub stats"/></div>
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&theme=tokyonight&show_icons=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique-Yiu&theme=calm&langs_count=6&layout=compact" />
+</div>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dominique-Yiu&show_icons=true&theme=tokyonight&column=8" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /></div>
 
@@ -36,7 +38,6 @@ Here are some ideas to get you started:
 ### Platforms
 
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)]()
-
 [![](https://img.shields.io/badge/Linux-20.04-red?style=flat-square&logo=linux&logoColor=ffffff)]()
 ### Welcome to my world.
 
