@@ -1,4 +1,3 @@
-![Moe-Counter](https://count.getloli.com/get/@dominique-yiu?theme=rule34)
 <div align='center'>
   <img src='https://count.getloli.com/get/@dominique-yiu?theme=rule34' />
 </div>
