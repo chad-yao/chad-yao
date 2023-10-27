@@ -49,13 +49,14 @@ Here are some ideas to get you started:
 ### Languages
 
 [![](https://img.shields.io/badge/Python-3.11-326c9c?style=flat-square&logo=Python&logoColor=326c9c)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/Java-8-e0161a?logo=Java&logoColor=e0161a)](https://www.oracle.com/cn/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Java-8-e0161a?style=flat-square&logo=Java&logoColor=e0161a)](https://www.oracle.com/cn/)
+
 
 <div align="center">
     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&theme=tokyonight&show_icons=true" />
