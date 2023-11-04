@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Linux-20.04-red?style=flat-square&logo=linux&logoColor=ffffff)]()
+[![wakatime](https://wakatime.com/badge/user/aff0ba8a-d52a-4162-a33a-7ded0f3b7f25.svg)](https://wakatime.com/@aff0ba8a-d52a-4162-a33a-7ded0f3b7f25)
 
 ### Tools
 
