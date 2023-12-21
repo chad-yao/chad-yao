@@ -58,9 +58,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Java-8-e0161a?style=flat-square&logo=Java&logoColor=e0161a)](https://www.oracle.com/cn/)
 
-
 <div align="center">
-    <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&theme=tokyonight&show_icons=true" />
+    <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&theme=tokyonight&show_icons=true&rank_icon=percentile" />
     <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique-Yiu&theme=tokyonight&langs_count=4&layout=compact&show_icons=true" />
 </div>
 
