@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/VsCode-Editor-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDEA-Java-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/idea/)
 [![](https://img.shields.io/badge/PyCharm-Python-21d789?style=flat-square&logo=PyCharm&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/pyCharm/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### Languages
 
 [![](https://img.shields.io/badge/Python-3.11-326c9c?style=flat-square&logo=Python&logoColor=326c9c)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
