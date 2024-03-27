@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/JanYork/JanYork/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
 ### Welcome to my world.
 
 - 🔭 Graduated from Hunan University
