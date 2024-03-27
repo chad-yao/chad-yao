@@ -1,11 +1,11 @@
 <div align='center'>
-  <img src='https://count.getloli.com/get/@dominique-yiu?theme=rule34' />
+  <img src='https://count.getloli.com/get/@chadwick-yao?theme=rule34' />
 </div>
 
 ## The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. 👋
 
 <!--
-**Dominique-Yiu/Dominique-Yiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chadwick-yao/chadwick-yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🔭 Graduated from Hunan University
 - 💬 Working at Southern University of Science and Technology
-- 🌱 [Blog website](https://dominique-yiu.github.io/).
+- 🌱 [Blog website](https://dominique-yiu.netlify.app/).
 - 🤔 Looking for ...
 ### Platforms
 
@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Java-8-e0161a?style=flat-square&logo=Java&logoColor=e0161a)](https://www.oracle.com/cn/)
 
 <div align="center">
-    <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=Dominique-Yiu&theme=tokyonight&show_icons=true&rank_icon=percentile" />
-    <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique-Yiu&theme=tokyonight&langs_count=4&layout=compact&show_icons=true" />
+    <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=chadwick-yao&theme=tokyonight&show_icons=true&rank_icon=percentile" />
+    <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadwick-yao&theme=tokyonight&langs_count=4&layout=compact&show_icons=true" />
 </div>
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dominique-Yiu&show_icons=true&theme=tokyonight&column=9" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=chadwick-yao&show_icons=true&theme=tokyonight&column=9" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /></div>
