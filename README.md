@@ -1,7 +1,3 @@
-<div align='center'>
-  <img src='https://count.getloli.com/get/@chadwick-yao?theme=rule34' />
-</div>
-
 ## The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. 👋
 
 <!--
