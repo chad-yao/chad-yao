@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 
 ### Welcome to my world.
 
-- 🔭 Graduated from Hunan University
-- 💬 Working at Southern University of Science and Technology
+- 🔭 Research Interest: Learning Control for Robotics
 - 🌱 [Blog website](https://dominique-yiu.netlify.app/).
-- 🤔 Looking for ...
+
 ### Platforms
 
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)]()
