@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 Research Interest: Learning Control for Robotics
 - 🌱 [Blog website](https://dominique-yiu.netlify.app/).
+- 📫 [CV website](http://www.chadwickyao.com.cn/)
 
 ### Platforms
 
