@@ -1,5 +1,3 @@
-## The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. 👋
-
 <!--
 **chadwick-yao/chadwick-yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
