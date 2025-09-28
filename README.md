@@ -1,5 +1,5 @@
 <!--
-**chadwick-yao/chadwick-yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chad-yao/chad-yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/aff0ba8a-d52a-4162-a33a-7ded0f3b7f25.svg?style=flat-square)](https://wakatime.com/@aff0ba8a-d52a-4162-a33a-7ded0f3b7f25)
 
 <div align="center">
-    <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=chadwick-yao&theme=tokyonight&show_icons=true&rank_icon=percentile" />
-    <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadwick-yao&theme=tokyonight&langs_count=4&layout=compact&show_icons=true" />
+    <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=chad-yao&theme=tokyonight&show_icons=true&rank_icon=percentile" />
+    <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chad-yao&theme=tokyonight&langs_count=4&layout=compact&show_icons=true" />
 </div>
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=chadwick-yao&show_icons=true&theme=tokyonight&column=9" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=chad-yao&show_icons=true&theme=tokyonight&column=9" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /></div>
