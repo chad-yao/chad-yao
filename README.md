@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=chad-yao&theme=tokyonight&show_icons=true&rank_icon=percentile" />
-    <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chad-yao&theme=tokyonight&langs_count=4&layout=compact&show_icons=true" />
+    <!-- <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chad-yao&theme=tokyonight&langs_count=4&layout=compact&show_icons=true" /> -->
 </div>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=chad-yao&show_icons=true&theme=tokyonight&column=9" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /></div>
